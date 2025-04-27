@@ -58,25 +58,3 @@ Contributions to Promptcraft are always welcome! Whether it’s bug fixes, featu
 🌐 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-💬 Related Topics
-AI Chatbots
-
-Prompt Engineering
-
-Natural Language Processing (NLP)
-
-GPT-3 & OpenAI API
-
-AI Content Generation
-
-AI-Assisted Writing
-
-Machine Learning (ML)
-
-Error Handling in React
-
-🔗 Useful Links
-OpenAI
-
-GPT-3 Documentation
-
