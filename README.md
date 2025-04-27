@@ -1,4 +1,4 @@
-**Promptcraft is a great starting point or template for coders to further upgrade from. It's current state works but there is always room for improvement (Lots!).**
+ 💥**Promptcraft is a great starting point or template for coders to further upgrade from. It's current state works but there is always room for improvement (Lots!).** 💥
 
 The Promptcraft tool offers a highly structured and optimized approach to prompt creation. It is designed to make AI interactions more efficient by dynamically generating tailored prompts based on user inputs. The tool ensures that prompts are not only contextually relevant but also clear and actionable. With features like real-time fine-tuning suggestions, metrics-driven optimization, and multi-category support (including content creation, coding assistance, and chatbot training), Promptcraft allows users to refine their prompts iteratively for more precise, high-quality AI outputs.
 ![Description of GIF](https://raw.githubusercontent.com/OSINT619/AI-Prompt-Craft/refs/heads/main/InShot_20250427_122428493.gif)
